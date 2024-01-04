@@ -4,4 +4,6 @@
 <hr />
 
 <h2>Github Stats</h2>
+## Github Stats
 [![Mieraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=miejejaw)](https://github.com/miejejaw/github-readme-stats)
+
