@@ -4,5 +4,5 @@
 <hr />
 
 <h2>Github Stats</h2>
-[![Mieraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=miejejaw&show_icons=true)](https://github.com/miejejaw/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miejejaw&show_icons=true&theme=radical)](https://github.com/miejejaw/github-readme-stats)
 
